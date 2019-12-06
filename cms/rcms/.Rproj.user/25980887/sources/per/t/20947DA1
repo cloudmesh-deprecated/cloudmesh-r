@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575670351060.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2477178269",
+    "id" : "20947DA1",
+    "lastKnownWriteTime" : 1575670440,
+    "last_content_update" : 1575670440629,
+    "path" : "~/Desktop/cms/rcms/man/rcms.Rd",
+    "project_path" : "man/rcms.Rd",
+    "properties" : {
+        "cursorPosition" : "7,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
