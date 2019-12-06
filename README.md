@@ -6,6 +6,6 @@
 
 ## Running Examples 
 
-### Contributors
-
 ## Acknowledgements
+
+### Contributors
