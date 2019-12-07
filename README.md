@@ -4,12 +4,32 @@ The purpose of cloudmesh R command is to impletment CMS command in R environment
 
 ## Getting Started
 
-To get start, First, in the PC, you need to set up R environment in your computer. In the 
+To get start, First, you need to set up R environment in your computer. 
+
+There are two prerequisite packages before use the rcms package: 
+
+1. reticulate
+
+2. devtools
 
 ## Installing
 
+```r
+library(devtools)
+
+install_github("cloudmesh/cloudmesh-r", subdir="rcms")
+
+```
+
 ## Running Examples 
 
-## Acknowledgements
+```r
+library(rcms)
 
-### Contributors
+rcms("version")
+```
+
+![test cms version](./image/test_cms_version.png)
+
+## Acknowledgements
+This project is the very step of implement CMS in R. More devlopment is needed 
